@@ -20,9 +20,9 @@ hitung.addEventListener('click', () => {
         case '*':
             result = nilai1 * nilai2;
             break;
-        // case '/':
-        //     result = nilai1 / nilai2;
-        //     break;
+        case '/':
+            result = nilai1 / nilai2;
+            break;
         // case '%':
         //     result = nilai1 % nilai2;
         //     break;
